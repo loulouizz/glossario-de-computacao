@@ -1,2 +1,3 @@
-# loulouizz-glossario_de_computacao
+# glossario_de_computacao
 Backup das minhas anotações de computação do Obsidian
+Teste de sycn
